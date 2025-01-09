@@ -4,10 +4,10 @@
 - 👨‍🎓 I'm currently studying at the **University of Windsor**
 - 🧑‍🏭 I’m Currently working at **The Home Depot**
 - 🙌 I'm Currently Collaborating on **FinBud**
-- 📫 How to reach me
-      + email: reed8@uwindsor.ca
-      + linkedin: [Michael Reed](https://www.linkedin.com/in/michael~reed/)
-- ⚡ Fun fact: ...
+- 📫 How to reach me  
+           &emsp; + email: reed8@uwindsor.ca  
+           &emsp; + linkedin: [Michael Reed](https://www.linkedin.com/in/michael~reed/)  
+- ❓feel free to ask me any and all questions!
 
 <!---
 MichaelReed8/MichaelReed8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
